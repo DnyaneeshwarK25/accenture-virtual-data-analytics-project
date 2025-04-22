@@ -1,0 +1,65 @@
+slide 1
+ 
+so today I am presenting the results of the data analysis task
+
+
+slide 2
+
+ so today's agenda is to take a recap of the project to understand the problem we are tacking, second, we will go through the problem given to us, thirdly we will see the analytics team who is going to work on this task, four then I will go through a high-level process to solve this problem, and then will give insights and visualization of the analysis and lastly will summarise and will be open to any questions.
+
+slide 3
+
+so let us take a recap of the project, here in Accenture we have been embarked on a three-month project to complete three tasks,   Social Buzz a global scale tech unicorn needs us to guide them  on three tasks, firstly to audit their big data practice and share industries best expertise, secondly we will guide  for a successful IPO and thirdly to analyze and find top 5 categories from the data given by them
+
+slide 4
+ 
+here we are focused on the last point to give our expertise in finding out the top 5 content categories 
+as with this grand scale, it comes with a great challenge too
+to give an idea of the scale, according to what has been told to us your platform generates 100000 posts per day which amounts to 36500000 per year of unstructured data
+we are going to capitalize on it by crunching this content deeper to understand your audience and to give a personalized and  enjoyable experience
+
+
+
+slide 5 
+
+so to cater to this problem we set up an analytics team with Andrew Fleming our chief technical architect whose expertise will help to give a high-quality analysis. 
+Marcus Romptom our senior principle will share his skills in data engineering which has solved many big client's problems in this task,  
+ finally, I, Dnyaneeshwar Koradiya, was solely responsible for taking leadership guidance, delivering high-quality insights from the raw datasets, and turning these into business decisions.
+
+
+slide 6
+
+we will follow a 5 step process to tackle this problem,
+first data understanding, we will study the data in detail to understand the data model and domain of your business
+second data cleaning, we will clean the datasets and make it an ideal dataset to solve this problem 
+third data modeling after cleaning the data we will model this data into a dataset that can solve our business question and give results
+fourth data analysis now with the new dataset we will uncover insights and make visualization using our expertise in analysis.
+lastly, we will use these insights to make business decisions and to give recommendations on the next steps 
+
+slide 7
+ 
+after analyzing we got 16 unique categories of content across the dataset also the most common month for users to post within was January and there were 1897 reactions on the animal category alone  people obviously like animals
+But now, onto the main question... which is... what were the top 5 most popular categories of posts?
+
+slide 8
+
+ we analyzed the top 5 categories by  aggregated popularity score under a category, the top 5 categories we found were animals, science, healthy eating, technology, and food, with the animal being the highest with a 75K score and food being the lowest with 67K score, by this analysis, we got to know 
+
+slide 9
+
+Additionally, you can see from this chart the % split of popularity between the top 5 categories. There is not much difference between the share of each category, however, the difference between the 1st most popular, animals, and the 2nd most popular, science, is the largest gap equal to 0.39%.
+the overall difference between top 5 and other categories is 63.96% and all the top 5 categories make a total of 36.04% share.
+
+
+slide 10
+
+to summarize the presentation we have analyzed the top categories and went a step further,
+ we found that the top 2 categories are animal and science which indicate that people like real life and factual content the most,
+we also found out from the  other three categories the common topic is food, and to increase engagement show more similar content to users,  campaigning with healthy eating brands 
+and we also found  technology is growing gradually  and can increase engagement by collaborating with tech brands and tech influencers
+
+As much as this analysis was insightful, we are ready to take it to the next stage and we have the expertise within Accenture to help you realize these kinds of insights in production across your organization and in real-time. We would love to help you with this.
+
+slide 11
+
+Thank you very much for listening, please feel free to ask any questions that you may have!

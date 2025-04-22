@@ -1,0 +1,22 @@
+
+# Accenture Virtual Project Tasks
+
+1. Data Cleaning
+- Remove rows with missing values.
+- Change data types of values in specific columns as needed.
+- Drop irrelevant columns (those not useful to the business problem).
+- Final output: three cleaned datasets.
+
+2. Presentation Preparation (Slides 2-6)
+- Download the Accenture presentation template.
+- Populate the following slides:
+  • Slide 2: Agenda - Topics covered in the presentation.
+  • Slide 3: Project Recap - Key points from the project brief.
+  • Slide 4: Problem - The business problem being addressed.
+  • Slide 5: The Analytics Team - Include Andrew Fleming, Marcus Rompton, and yourself.
+  • Slide 6: Process - Outline steps taken for the analysis.
+
+3. Record Your Video
+- Create a 10-minute maximum presentation video.
+- Ensure it is clear, engaging, and tells a compelling story.
+- Focus on eye contact and delivery, as slides won't be visible in the video.
